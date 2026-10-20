@@ -1,6 +1,6 @@
 nombre = "marco"
-apellido = "sanchez"
+status = "soy pasante"
 
-saludo = "hola" + " "+ nombre + " " + apellido + " " + "BIENVENIDO!!"
+saludo = "hola" + " "+ nombre + " " + status 
 
 print(saludo)
